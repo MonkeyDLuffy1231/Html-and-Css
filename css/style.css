@@ -1,0 +1,45 @@
+/*style = "background-color: <color>;
+			color :<color>;
+			font-family :<font style>;
+			font-size : 40px";
+*/
+body{
+	background-color : #000;
+	font-size : 20x;
+	color : white;
+	font-family : cursive;
+	
+}
+
+p{
+	color : #FFCC00;
+}
+
+
+.top-section{
+	background-color : pink;
+	width : 700px;
+	height : 350px;
+	border-width : 5px;
+	border-color : yellow;
+	border-style : solid;
+}
+.next-section{
+	background-color : pink;
+	width : 700px;
+	height : 350px;
+	margin-left : 750px;
+	margin-top : -360px;
+	border-width : 5px;
+	border-color : yellow;
+	border-style : solid;
+}
+span{
+	color : black;
+	font-size : 40px;
+}
+
+.about{
+	color : #280b63;
+	font-size : 20px;
+}
